@@ -21,7 +21,5 @@ def test2():
     return render_template("dataform.html")
 
 
-
-
 if __name__ == '__main__':
     app.run()
