@@ -1792,7 +1792,8 @@ input, select, textarea {
 			display: inline-block;
 			margin: 0.25em;
 			top: 0;
-			padding-left: 0;
+			padding-left: 1em;
+			padding-right: 1em;
 		}
 
 			ul.social li a {
