@@ -1,1 +1,1 @@
-web: gunicorn app:adam-patni
+web: gunicorn app:app --log-file=-
